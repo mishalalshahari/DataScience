@@ -8,13 +8,13 @@
 > conda create -p venv python==3.8(any version as per requirement)  
 > conda activate venv/  
 ### Install Python Libraries  
-Numpy  
+Numpy\
 > pip install numpy
-Pandas  
+Pandas\  
 > pip install pandas
-Matplitlib  
+Matplitlib\  
 > pip install matplotlib
-Seaborn  
+Seaborn\
 > pip install seaborn
-Scipy  
+Scipy\
 > pip install seaborn
